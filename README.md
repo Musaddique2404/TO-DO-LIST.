@@ -1,4 +1,4 @@
-#MY TO-DO-LIST WITH HTML CSS JAVASCRIPT.
+# MY TO-DO-LIST WITH HTML CSS JAVASCRIPT.
 
 This is a simple to do list created with the help of HTML, CSS and JavaScript. The user can add tasks by typing into an input,mark as competed,and also can delete when its done.
 
